@@ -18,6 +18,8 @@ h1, h2{
 	font-family: 'Permanent Marker', cursive;
 }
 
+/* header stykes */
+
 header h1{
 	color: white;
 	font-size: 80px
@@ -29,6 +31,8 @@ header img{
     	border: 20px solid white;
     	height: 300px;
 }
+
+/* Main styles */
 
 main{
 	max-width: 800px;
